@@ -1,2 +1,2 @@
-# ExerciciosSecao6
-Exercícios Seção 6
+# ExerciciosSecao7
+Exercícios Seção 7
