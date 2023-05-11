@@ -11,3 +11,7 @@
 (d) Mostre na tela cada valor do vetor A, um em cada linha.
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
+
+#### 2- Crie um programa que lê 6 valores inteiros e, em seguida, mostre na tela os valores lidos.
+
+[Resposta](./ExerciciosResolvidos/ex002.c)
