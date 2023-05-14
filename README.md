@@ -15,3 +15,7 @@
 #### 2- Crie um programa que lê 6 valores inteiros e, em seguida, mostre na tela os valores lidos.
 
 [Resposta](./ExerciciosResolvidos/ex002.c)
+
+#### 3- Ler um conjunto de números reais, armazenando-o em vetor e calcular o quadrado das componentes deste vetor, armazenando o resultado em outro vetor. Os conjuntos têm 10 elementos cada. Imprimir todos os conjuntos.
+
+[Resposta](./ExerciciosResolvidos/ex003.c)
