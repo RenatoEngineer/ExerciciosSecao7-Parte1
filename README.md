@@ -31,3 +31,7 @@
 #### 6- Faça um programa que receba do usuário um vetor com 10 posições. Em seguida deverá ser impresso o maior e o menor elemento do vetor.
 
 [Resposta](./ExerciciosResolvidos/ex006.c)
+
+#### 7- Escreva um programa que leia 10 números inteiros e os armazene em um vetor. Imprima o vetor, o maior elemento e a posição que ele se encontra.
+
+[Resposta](./ExerciciosResolvidos/ex007.c)
