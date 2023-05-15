@@ -27,3 +27,7 @@
 #### 5- Leia um vetor de 10 posições. Contar e escrever quantos valores pares ele possui.
 
 [Resposta](./ExerciciosResolvidos/ex005.c)
+
+#### 6- Faça um programa que receba do usuário um vetor com 10 posições. Em seguida deverá ser impresso o maior e o menor elemento do vetor.
+
+[Resposta](./ExerciciosResolvidos/ex006.c)
