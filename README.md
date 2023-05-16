@@ -35,3 +35,8 @@
 #### 7- Escreva um programa que leia 10 números inteiros e os armazene em um vetor. Imprima o vetor, o maior elemento e a posição que ele se encontra.
 
 [Resposta](./ExerciciosResolvidos/ex007.c)
+
+#### 8- Crie um programa que lê 6 valores inteiros e, em seguida, mostre na tela os valores lidos na ordem inversa.
+
+[Resposta](./ExerciciosResolvidos/ex008.c)
+
