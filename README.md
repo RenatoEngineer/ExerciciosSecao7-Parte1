@@ -64,3 +64,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex014.c)
 
+#### 15- Leia um vetor com 20 números inteiros. Escreva os elementos do vetor eliminando elementos repetidos.
+
+[Resposta](./ExerciciosResolvidos/ex015.c)
+
