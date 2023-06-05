@@ -76,3 +76,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex017.c)
 
+#### 18- Faça um programa que leia um vetor de 10 números. Leia um número x. Conte os múltiplos de um número inteiro x num vetor de mostre-os na tela.
+
+[Resposta](./ExerciciosResolvidos/ex018.c)
+
