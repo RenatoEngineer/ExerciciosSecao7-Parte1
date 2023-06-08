@@ -88,3 +88,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex020.c)
 
+#### 21- Faça um programa que receba do usuário dois vetores, A e B, com 10 números inteiros cada. Crie um novo vetor denominado C calculando 𝐶=𝐴−𝐵. Mostre na tela os dados do vetor C.
+
+[Resposta](./ExerciciosResolvidos/ex021.c)
+
