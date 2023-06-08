@@ -96,3 +96,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex022.c)
 
+#### 23- Ler dois conjuntos de números reais, armazenando-os em vetores e calcular o produto escalar entre eles. Os conjuntos têm 5 elementos cada. Imprimir os dois conjuntos e o produto escalar, sendo que o produto escalar é dado por: 𝑥1∗ 𝑦1+𝑥2∗ 𝑦2+⋯+ 𝑥𝑛∗ 𝑦𝑛.
+
+[Resposta](./ExerciciosResolvidos/ex023.c)
+
