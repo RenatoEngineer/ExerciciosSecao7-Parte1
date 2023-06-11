@@ -2,13 +2,10 @@
 
 #### 1- Faça um programa que possua um vetor denominado A que armazene 6 números inteiros. O programa deve executar os seguintes passos:
 
-(a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7.
-
-(b) Armazene em uma variável inteira (simples) a soma entre os valores das posições A[0], A[1] e A[5] do vetor e mostre na tela esta soma.
-
-(c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100.
-
-(d) Mostre na tela cada valor do vetor A, um em cada linha.
+**<p>(a) Atribua os seguintes valores a esse vetor: 1, 0, 5, -2, -5, 7.</p>**
+**<p>(b) Armazene em uma variável inteira (simples) a soma entre os valores das posições A[0], A[1] e A[5] do vetor e mostre na tela esta soma.</p>**
+**<p>(c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100.</p>**
+**<p>(d) Mostre na tela cada valor do vetor A, um em cada linha.</p>**
 
 [Resposta](./ExerciciosResolvidos/ex001.c)
 
@@ -119,4 +116,12 @@
 #### 28- Leia 10 números inteiros e armazene em um vetor v. Crie dois novos vetores v1 e v2. Copie os valores ímpares de v para v1, e os valores pares de v para v2. Note que cada um dos vetores v1 e v2 têm no máximo 10 elementos, mas nem todos os elementos são utilizados. No final escreva os elementos UTILIZADOS de v1 e v2.
 
 [Resposta](./ExerciciosResolvidos/ex028.c)
+
+#### 29- Faça um programa que receba 6 números inteiros e mostre:
+**<p>• Os números pares digitados;</p>**
+**<p>• A soma dos números pares digitados;</p>**
+**<p>• Os números ímpares digitados;</p>**
+**<p>• A quantidade de números ímpares digitados;</p>**
+
+[Resposta](./ExerciciosResolvidos/ex029.c)
 
