@@ -161,3 +161,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex036.c)
 
+#### 37- Considere um vetor A com 11 elementos onde 𝐴1<𝐴2<⋯<𝐴6>𝐴7>𝐴8>⋯>𝐴11, ou seja, está ordenado em ordem crescente até o sexto elemento, e a partir desse elemento está ordenado em ordem decrescente. Dado o vetor da questão anterior, proponha um algoritmo para ordenar os elementos.
+
+[Resposta](./ExerciciosResolvidos/ex037.c)
+
