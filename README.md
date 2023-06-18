@@ -157,3 +157,7 @@
 
 [Resposta](./ExerciciosResolvidos/ex035.c)
 
+#### 36- Leia um vetor com 10 números reais, ordene os elementos deste vetor, e no final escreva os elementos do vetor ordenado.
+
+[Resposta](./ExerciciosResolvidos/ex036.c)
+
