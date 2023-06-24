@@ -169,3 +169,14 @@
 
 [Resposta](./ExerciciosResolvidos/ex038.c)
 
+#### 39- Escreva um programa que leia um número inteiro positivo n e em seguida imprima n linhas do chamado Triangulo de Pascal:
+**<p>1</p>**
+**<p>1 1</p>**
+**<p>1 2 1</p>**
+**<p>1 3 3 1</p>**
+**<p>1 4 6 4 1</p>**
+**<p>1 5 10 10 5 1</p>**
+**<p>...</p>**
+
+[Resposta](./ExerciciosResolvidos/ex039.c)
+
